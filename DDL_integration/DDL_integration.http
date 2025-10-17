@@ -1,0 +1,6 @@
+@DDL_integration_HostAddress = http://localhost:5005
+
+GET {{DDL_integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
